@@ -15,7 +15,7 @@ Hello, I'm Saif, a Passionate frontend developer with a knack for crafting engag
 * ⚡  Programmer by day, martial artist at night
 
 <a href="https://www.github.com/saifmohamedsv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saifmohamedsv?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/saifmohamed_swe" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/saifmohamedsv?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://linkedin.com/in/saifmohamedsv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/saifmohamed_swe?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a>
 
